@@ -39,11 +39,11 @@
 
 ###### 硬件配置
 
-Computer model	           HP 15-ak039TX (950M/GTX)
+Computer model_________HP 15-ak039TX (950M/GTX)
 
-Processor	                Intel Core i5-6300HQ
+ProcessorIntel Core i5-6300HQ
 
-Memory	                   8GB Hynix DDR3L 1600MHz
+Memory--------------8GB Hynix DDR3L 1600MHz
 
 Hard Disk	                SSD 128GB/HDD 1TB
 
