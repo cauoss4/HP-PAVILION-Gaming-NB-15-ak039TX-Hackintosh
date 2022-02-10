@@ -39,23 +39,23 @@
 
 ###### 硬件配置
 
-Computer model_________HP 15-ak039TX (950M/GTX)
+Computer model------HP 15-ak039TX (950M/GTX)
 
-ProcessorIntel Core i5-6300HQ
+Processor-----------Intel Core i5-6300HQ
 
 Memory--------------8GB Hynix DDR3L 1600MHz
 
-Hard Disk	                SSD 128GB/HDD 1TB
+Hard Disk	----------SSD 128GB/HDD 1TB
 
-Integrated Graphics	      Intel HD Graphics 530
+Integrated Graphics-----	-Intel HD Graphics 530
 
-Monitor                  	LG LGD04B3 FHD 1920x1080 (15.7inch)
+Monitor-------------LG LGD04B3 FHD 1920x1080 (15.7inch)
 
-Sound Card               	Realtek ALC290 (layout-id:28)
+Sound Card----------Realtek ALC290 (layout-id:28)
 
-Wireless Card            	Intel Wireless 3165
+Wireless Card-------Intel Wireless 3165
 
-SD Card Reader	           Realtek RTS522A
+SD Card Reader------Realtek RTS522A
 
 
 ###### 支持的功能
