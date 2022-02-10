@@ -15,8 +15,6 @@
   <h3 align="center">HP PAVILION Gaming NB 15-ak039TX Hackintosh</h3>
   <p align="center">
     macOS  Monterey 12.2 for 暗影精灵I (HP PAVILION Gaming NB 15-ak039TX)
-   
-    <br />
 
   </p>
 
